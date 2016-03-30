@@ -1,0 +1,26 @@
+package elasticUtils;
+
+import java.io.File;
+import java.io.FileInputStream;
+
+import org.yaml.snakeyaml.Yaml;
+
+public class SchemaGenerator {
+
+	public SchemaGenerator() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	SchemaDefination schema = new SchemaDefination();
+	
+	public void createElasticSchema(String fileName) {
+		
+		Yaml yaml = new Yaml();
+		try{
+			schema = yaml.loadAs(new FileInputStream(new File(fileName)), SchemaDefination.class);
+		}
+		catch(Exception e) {
+			
+		}
+	}
+}

@@ -1,0 +1,83 @@
+2016-02-29 18:19:57 INFO  ConnectElastic:16 - Creating a connection with Cluster abbhave On host localhost And port 9300
+2016-02-29 18:19:57 INFO  plugins:151 - [Stonecutter] loaded [], sites []
+2016-02-29 18:19:58 INFO  ConnectElastic:20 - Connected to the Elastic Cluster abbhave
+2016-02-29 18:19:58 INFO  Main:14 - {
+  "cluster_name" : "abbhave",
+  "status" : "yellow",
+  "timed_out" : false,
+  "number_of_nodes" : 1,
+  "number_of_data_nodes" : 1,
+  "active_primary_shards" : 34,
+  "active_shards" : 34,
+  "relocating_shards" : 0,
+  "initializing_shards" : 0,
+  "unassigned_shards" : 34,
+  "delayed_unassigned_shards" : 0,
+  "number_of_pending_tasks" : 0,
+  "number_of_in_flight_fetch" : 0
+}
+2016-02-29 20:08:20 INFO  ConnectElastic:16 - Creating a connection with Cluster abbhave On host localhost And port 9300
+2016-02-29 20:08:20 INFO  plugins:151 - [Sauron] loaded [], sites []
+2016-02-29 20:08:20 INFO  ConnectElastic:20 - Connected to the Elastic Cluster abbhave
+2016-02-29 20:08:20 INFO  Main:14 - {
+  "cluster_name" : "abbhave",
+  "status" : "yellow",
+  "timed_out" : false,
+  "number_of_nodes" : 1,
+  "number_of_data_nodes" : 1,
+  "active_primary_shards" : 39,
+  "active_shards" : 39,
+  "relocating_shards" : 0,
+  "initializing_shards" : 0,
+  "unassigned_shards" : 39,
+  "delayed_unassigned_shards" : 0,
+  "number_of_pending_tasks" : 0,
+  "number_of_in_flight_fetch" : 0
+}
+2016-03-04 11:23:31 INFO  ConnectElastic:16 - Creating a connection with Cluster abbhave On host localhost And port 9300
+2016-03-04 11:23:32 INFO  plugins:151 - [Dusk] loaded [], sites []
+2016-03-04 11:23:32 INFO  ConnectElastic:20 - Connected to the Elastic Cluster abbhave
+2016-03-04 11:23:52 INFO  FileHelper:41 - Found the file. Now parsing the file
+2016-03-04 11:24:38 INFO  FileHelper:41 - Found the file. Now parsing the file
+2016-03-04 11:25:19 INFO  FileHelper:41 - Found the file. Now parsing the file
+2016-03-04 11:25:34 INFO  FileHelper:41 - Found the file. Now parsing the file
+2016-03-07 12:48:53 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 12:48:53 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 12:49:49 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 12:49:49 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 12:57:56 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 12:57:56 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 12:58:32 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 12:58:32 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 12:58:38 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 12:58:38 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 12:58:46 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 12:58:46 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 12:59:01 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 12:59:01 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 12:59:22 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 12:59:22 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 12:59:43 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 12:59:43 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 13:00:15 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 13:00:15 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 13:00:30 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 13:00:30 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 13:04:00 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 13:04:00 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 13:04:46 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 13:04:46 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 13:05:05 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 13:05:05 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 13:05:14 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 13:05:14 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 13:19:17 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 13:19:17 INFO  FileHelper:50 - The scanned file has 5 columns
+2016-03-07 19:21:19 INFO  FileHelper:44 - Found the file. Now parsing the file
+2016-03-07 19:21:19 INFO  FileHelper:51 - The scanned file has 5 columns
+2016-03-07 19:28:47 INFO  FileHelper:47 - Found the file. Now parsing the file
+2016-03-07 19:28:47 INFO  FileHelper:54 - The scanned file has 5 columns
+2016-03-07 19:33:33 INFO  FileHelper:49 - Found the file. Now parsing the file
+2016-03-07 19:33:33 INFO  FileHelper:56 - The scanned file has 5 columns
+2016-03-07 19:37:47 INFO  FileHelper:49 - Found the file. Now parsing the file
+2016-03-07 19:37:47 INFO  FileHelper:56 - The scanned file has 5 columns

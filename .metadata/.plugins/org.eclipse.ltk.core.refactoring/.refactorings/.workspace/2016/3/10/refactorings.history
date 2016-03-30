@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Elastic17/ElasticUtils.log&apos;" deleteContents="false" description="Delete resource &apos;Elastic17/ElasticUtils.log&apos;" element1="/Elastic17/ElasticUtils.log" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1456798794591"/>
+</session>

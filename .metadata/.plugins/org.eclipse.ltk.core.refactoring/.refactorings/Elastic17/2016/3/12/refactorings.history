@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;ElasticUtils/src&apos;&#x0A;- Original project: &apos;Elastic17&apos;&#x0A;- Destination element: &apos;ElasticUtils/src&apos;&#x0A;- Original elements:&#x0A;     configuration.yaml&#x0A;     log4j.properties&#x0A;     Status.csv" description="Copy files" destination="=ElasticUtils/src" element1="src/configuration.yaml" element2="src/log4j.properties" element3="src/Status.csv" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1457919783326" units="0" version="1.0"/>
+</session>

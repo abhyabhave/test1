@@ -1,0 +1,15 @@
+package elasticUtils;
+
+public class SchemaDefination {
+
+	public SchemaDefination() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	String Column1;
+	String Column2;
+	String Column3;
+	String Column4;
+	String Column5;
+	String Column6;
+}

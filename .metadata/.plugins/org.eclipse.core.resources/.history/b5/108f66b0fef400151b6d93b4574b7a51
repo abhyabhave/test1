@@ -1,0 +1,24 @@
+package elasticUtils;
+
+import java.io.File;
+
+import org.apache.log4j.Logger;
+
+
+public class IndexUtils {
+
+	Logger logger = Logger.getLogger("IndexUtils");
+	
+	public IndexUtils() {
+
+	}
+
+	public void CSVtoIndex(String fileName) {
+		File file = new File(fileName);
+		if(!FileHelper.fileExists(file)) {
+			logger.error("File does not exists");
+		}
+		
+	}
+}
+

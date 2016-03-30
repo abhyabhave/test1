@@ -1,0 +1,14 @@
+package elasticUtils;
+
+public class IndexUtils {
+
+	public IndexUtils() {
+
+	}
+
+	
+	public void CSVtoIndex(String fileName) {
+		
+	}
+}
+

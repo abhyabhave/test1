@@ -1,0 +1,8 @@
+hostName: localhost
+port: 9300
+clusterName: abbhave 
+indexName: status
+operation: Append
+internalConfig:
+ http: true
+ disabled: false

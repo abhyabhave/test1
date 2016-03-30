@@ -1,0 +1,18 @@
+package elasticUtils;
+
+import java.io.File;
+
+public class IndexUtils {
+
+	public IndexUtils() {
+
+	}
+
+	
+	public void CSVtoIndex(String fileName) {
+		File file = new File(fileName);
+		
+		
+	}
+}
+

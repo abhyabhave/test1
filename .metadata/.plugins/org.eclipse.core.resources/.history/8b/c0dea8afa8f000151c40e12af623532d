@@ -1,0 +1,10 @@
+package elasticUtils;
+
+public class SchemaGenerator {
+
+	public SchemaGenerator() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+}
